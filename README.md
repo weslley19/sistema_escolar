@@ -22,7 +22,7 @@ Dados de acesso:
 P.S.
   - Não conseguir fazer a vinculação de professores as turmas. Ainda estou desenvolvendo uma solução para isso.
   - Esse projeto não foi feito utilizando o padrão MVC pois ainda estou apredendo a utilizar mas já foi iniciado nessse modelo
-  - Para acompanhar esse projeto utilizando MVC acesse https:link.com.br
+  - Para acompanhar esse projeto utilizando MVC acesse https://github.com/weslley19/sistema_escolarMVC
 
 
 Se deseja ver o sistema funcionando visite https://edu-station.000webhostapp.com/
