@@ -10,12 +10,12 @@ Manual de configuração:
   
 
 Dados de acesso:
-  - Não coloquei a opção de cadastrar um novo admin. Use o pré-cadastrado logo abaixo
-    ============================
-  - | email: weslley@gmail.com |
-  - | senha: 123               |
-    ============================
-  - Caso alguma informação de login esteja errada, olhe na tabela "admin_director" do database e confira se esta tudo certo
+Não coloquei a opção de cadastrar um novo admin. Use o pré-cadastrado logo abaixo
+   
+ | email: weslley@gmail.com |
+ | senha: 123               |
+ 
+Caso alguma informação de login esteja errada, olhe na tabela "admin_director" do database e confira se esta tudo certo
   
   
   
